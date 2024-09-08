@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vivek-ghawate-a0002920b/](https://www.linkedin.com/in/vivek-ghawate-a0002920b/)
 
-- 💬 Ask me about **Java,Adv.Java,Html,Css,Javascript,React,Python,SQL,**
+- 💬 Ask me about **Java,Sprinboot,Hibernate,Html,Css,Javascript,React,Python,SQL,**
 
 - 📫 How to reach me **vivekghawate4444@gmail.com**
 
